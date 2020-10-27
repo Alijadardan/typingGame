@@ -1,6 +1,6 @@
 # TypingGame
 
-A fun little game i build when I was bored...............................................................................................
+A fun little game I build when I was bored...............................................................................................
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.0-next.0.
 
